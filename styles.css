@@ -1,0 +1,307 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1600px;
+	 height: 1500px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 1500px;
+	 z-index:1;
+} 
+
+ #GreyBackground 
+{ 
+	 left: -1px; 
+	 top: 1365px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 136px;
+	 z-index:2;
+} 
+
+ #cc 
+{ 
+	 left: 642px; 
+	 top: 1415px; 
+	 position: absolute; 
+	 width: 88px;
+	 height: 31px;
+	 z-index:3;
+} 
+
+ #Exceptwhereotherwise 
+{ 
+	 left: 746px; 
+	 top: 1414px; 
+	 position: absolute; 
+	 width: 206px;
+	 height: 38px;
+	 z-index:4;
+} 
+
+ #BlueBackground 
+{ 
+	 left: -1px; 
+	 top: 667px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 703px;
+	 z-index:5;
+} 
+
+ #anddissolvetheTheGoo 
+{ 
+	 left: 491px; 
+	 top: 820px; 
+	 position: absolute; 
+	 width: 603px;
+	 height: 288px;
+	 z-index:6;
+} 
+
+ #Getsomerest 
+{ 
+	 left: 407px; 
+	 top: 735px; 
+	 position: absolute; 
+	 width: 768px;
+	 height: 43px;
+	 z-index:7;
+} 
+
+ #Ellipse6copy2 
+{ 
+	 left: 1005px; 
+	 top: 1062px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 307px;
+	 z-index:8;
+} 
+
+ #Ellipse6copy 
+{ 
+	 left: 1044px; 
+	 top: 1101px; 
+	 position: absolute; 
+	 width: 229px;
+	 height: 229px;
+	 z-index:9;
+} 
+
+ #Ellipse6 
+{ 
+	 left: 1087px; 
+	 top: 1142px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 142px;
+	 z-index:10;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 0px; 
+	 top: 1157px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 211px;
+	 z-index:11;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 880px; 
+	 top: 1183px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 29px;
+	 z-index:12;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 84px; 
+	 top: 1207px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 9px;
+	 z-index:13;
+} 
+
+ #VectorSmartObject_2 
+{ 
+	 left: 475px; 
+	 top: 1194px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 18px;
+	 z-index:14;
+} 
+
+ #Ellipse8copy3 
+{ 
+	 left: 155px; 
+	 top: 700px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 111px;
+	 z-index:15;
+} 
+
+ #Ellipse8copy4 
+{ 
+	 left: 350px; 
+	 top: 1040px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 58px;
+	 z-index:16;
+} 
+
+ #Ellipse8copy6 
+{ 
+	 left: 1183px; 
+	 top: 750px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 68px;
+	 z-index:17;
+} 
+
+ #Ellipse8copy5 
+{ 
+	 left: 1285px; 
+	 top: 997px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 78px;
+	 z-index:18;
+} 
+
+ #RedBackground 
+{ 
+	 left: -1px; 
+	 top: 68px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 603px;
+	 z-index:19;
+} 
+
+ #Thisistherewordedlas 
+{ 
+	 left: 436px; 
+	 top: 271px; 
+	 position: absolute; 
+	 width: 729px;
+	 height: 288px;
+	 z-index:20;
+} 
+
+ #DONTWORRYYOURDATAWIL 
+{ 
+	 left: 395px; 
+	 top: 158px; 
+	 position: absolute; 
+	 width: 804px;
+	 height: 25px;
+	 z-index:21;
+} 
+
+ #Ellipse3 
+{ 
+	 left: 320px; 
+	 top: 145px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 47px;
+	 z-index:22;
+} 
+
+ #Shape9 
+{ 
+	 left: 334px; 
+	 top: 160px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 16px;
+	 z-index:23;
+} 
+
+ #Rectangle2 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 1602px;
+	 height: 74px;
+	 z-index:24;
+} 
+
+ #Shape1 
+{ 
+	 left: 338px; 
+	 top: 34px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 25px;
+	 z-index:25;
+} 
+
+ #Shape1copy 
+{ 
+	 left: 341px; 
+	 top: 18px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 21px;
+	 z-index:26;
+} 
+
+ #Shape1copy2 
+{ 
+	 left: 325px; 
+	 top: 11px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 25px;
+	 z-index:27;
+} 
+
+ #Shape1copy3 
+{ 
+	 left: 318px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 21px;
+	 z-index:28;
+} 
+
+ #Type 
+{ 
+	 left: 374px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 147px;
+	 height: 18px;
+	 z-index:29;
+} 
